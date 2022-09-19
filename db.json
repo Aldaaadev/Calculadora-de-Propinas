@@ -1,0 +1,100 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "Sopa de Costilla",
+        "precio": 3.50,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Sopa de Pollo",
+        "precio": 3.00,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Pollo Guisado",
+        "precio": 2.50,
+        "categoria": 1
+      },
+      {
+        "id": 4,
+        "nombre": "Pollo Frito",
+        "precio": 3.00,
+        "categoria": 1
+      },
+      {
+        "id": 5,
+        "nombre": "Macarrones con Carne Molida",
+        "precio": 3.50,
+        "categoria": 1
+      },
+      {
+        "id": 6,
+        "nombre": "Puerco Guisado",
+        "precio": 4.00,
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Arroz de Combinación",
+        "precio": 3.50,
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Arroz Blanco",
+        "precio": 3.00,
+        "categoria": 1
+      },
+      {
+        "id": 9,
+        "nombre": "Chicha de Naranja con Raspadura",
+        "precio": 1.00,
+        "categoria": 2
+      },
+      {
+        "id": 10,
+        "nombre": "Jugo de lata",
+        "precio": 1.50,
+        "categoria": 2
+      },
+      {
+        "id": 11,
+        "nombre": "Limón con Raspadura",
+        "precio": 1.00,
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Soda Coca-Cola",
+        "precio": 1.50,
+        "categoria": 2
+      },
+      {
+        "id": 13,
+        "nombre": "Sodas Kist",
+        "precio": 1.50,
+        "categoria": 2
+      },
+      {
+        "id": 14,
+        "nombre": "Paleta",
+        "precio": 1.00,
+        "categoria": 3
+      },
+      {
+        "id": 15,
+        "nombre": "Volteado de Piña",
+        "precio": 1.00,
+        "categoria": 3
+      },
+      {
+        "id": 16,
+        "nombre": "Pie de manzana",
+        "precio": 1.50,
+        "categoria": 3
+      } 
+    ]
+}
